@@ -11,7 +11,7 @@
 
 }
 
-#paragraph{
+#ph{
   font-family: 'Pirata One';
   font-size: 30px;
 }
@@ -29,4 +29,15 @@
 #third{
   color:black;
   font-family: 'Freckle Face';
+}
+
+#h1{
+  font-family: 'Playball'
+
+}
+
+}
+#function{
+  color: black;
+  font-family: 'Freckle Face'
 }
